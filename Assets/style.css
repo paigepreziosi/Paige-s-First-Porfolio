@@ -1,12 +1,14 @@
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    color: #777;
+
 }
 
 html, body {
     margin: 0;
     padding: 0;
+    background-color: white;
+    
 }
 
 .nav ul {
@@ -53,13 +55,32 @@ html, body {
     padding: 50px;
 }
 
-h2 {
-    background: pink;
+.section-header { 
+
+    margin: 0px auto;
     color: grey;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 30px;
 }
 
-body {
-    color: blueviolet;
+p {
+    background-color: white;
+    color: grey;
+    margin: 0px auto;
+}
+
+.about-paige { 
+    float: left;
+    height: auto;
+    width: 300px;
+    margin: 15px;
+    border-radius: 50%;
+    border: black;
+    border-style: dotted;
+    
 }
 
 .box {
