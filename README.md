@@ -44,8 +44,8 @@ This is the start of my first portfolio. This portfolio will showcase my work th
 3. Visual Studio Code 2
 
 ## 5. Installation
-1. Clone the repository: "git clone git@github.com:paigepreziosi/MyFirstPortfolio.git"
-2. Navigate to the project directory: "MyFirstPortfolio"
+1. Clone the repository: "git@github.com:paigepreziosi/Paige-s-First-Porfolio.git"
+2. Navigate to the project directory: "Paige-s-First-Porfolio"
 
 ## Credits
 
