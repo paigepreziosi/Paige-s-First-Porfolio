@@ -7,7 +7,6 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: white;
-    
 }
 
 .nav ul {
@@ -81,10 +80,16 @@ p {
     margin: 0px auto;
 }
 
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+ 
+}
+
 .about-paige { 
     float: left;
     height: auto;
-    width: 300px;
+    width: 250px;
     margin: 15px;
     border-radius: 50%;
     border: black;
@@ -94,7 +99,7 @@ p {
 h3 {
     margin: 0px auto;
     color: black;
-    padding: 20px;
+    padding: 0px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
@@ -102,11 +107,11 @@ h3 {
 }
 
 main {
-    padding: 20px;
-    margin: 0px;
+    padding: 10px;
+    margin: 60px;
     display: flex;
     flex-wrap: wrap;
-
+   
 }
 
 
@@ -131,6 +136,23 @@ main {
     display: inline;
     align-items: center;
     padding: 10px;
-
 }
 
+.box1, .box2, .box3, .box4 {
+    box-sizing: border-box;
+    text-align: center;
+    border: black;
+    border-radius: 8px; 
+    border-style: dotted;  
+    margin-left: 20px;
+    margin-bottom: 20px;
+    align-self: center;
+}
+
+.box1 {
+    width: 80%;
+}
+
+.box2, .box3, .box4 {
+    width: 30%;
+}
