@@ -1,4 +1,4 @@
-# MMy First Porfolio
+# Paige's First Porfolio
 
 <img width="1256" alt="Screenshot 2024-02-13 at 12 31 05 PM" src="https://github.com/paigepreziosi/MyFirstPortfolio/assets/151070992/4e4f1410-27b1-458d-a559-4f87df22b1bb">
 <img width="1250" alt="Screenshot 2024-02-13 at 12 31 13 PM" src="https://github.com/paigepreziosi/MyFirstPortfolio/assets/151070992/70b6fc95-9546-4b20-bfc7-5dee6b47cd15">
